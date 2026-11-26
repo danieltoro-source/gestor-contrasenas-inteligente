@@ -1,0 +1,8 @@
+pandas
+pyarrow
+scikit-learn==1.9.1
+joblib
+zxcvbn
+requests
+cryptography
+streamlit
